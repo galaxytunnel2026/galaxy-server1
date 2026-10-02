@@ -7,5 +7,5 @@ compatibility_flags = [ "nodejs_compat" ]
 keep_vars = true
 
 [vars]
-PROXYIP = "213.133.116.44"
+PROXYIP = "blacknight.abrdns.com"
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
